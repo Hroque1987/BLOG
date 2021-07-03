@@ -2,12 +2,10 @@
 Small blog exemple
 
 A simple blog created for learning.
-It uses Node.js and the following extensions:
-Express;
-EJS;
-Body Parser;
+Besides CSS, HTML and Bootstrap,
+it was used Node.js and the following extensions: 
+Express, EJS and Body Parser.
 
-It was used as well CSS, HTML and Bootstrap.
 
 Thank You.
 
